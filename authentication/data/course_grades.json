@@ -1,0 +1,92 @@
+{
+    "101":{
+        "first": "Thomas",
+        "last": "Smith",
+        "grades": {
+            "english": 43,
+            "mathematics": 47,
+            "science": 74
+        }
+    },
+    "102":{
+        "first": "William",
+        "last": "Murphy",
+        "grades": {
+            "english": 89,
+            "mathematics": 61,
+            "science": 81
+        }
+    },
+    "103":{
+        "first": "Nathan",
+        "last": "Lam",
+        "grades": {
+            "english": 86,
+            "mathematics": 41,
+            "science": 100
+        }
+    },
+    "104":{
+        "first": "Judy",
+        "last": "Martin",
+        "grades": {
+            "english": 90,
+            "mathematics": 40,
+            "science": 40
+        }
+    },
+    "105":{
+        "first": "Jane",
+        "last": "Brown",
+        "grades": {
+            "english": 43,
+            "mathematics": 47,
+            "science": 74
+        }
+    },
+    "106":{
+        "first": "Jim",
+        "last": "Roy",
+        "grades": {
+            "english": 81,
+            "mathematics": 56,
+            "science": 67
+        }
+    },
+    "107":{
+        "first": "Alex",
+        "last": "Temblay",
+        "grades": {
+            "english": 98,
+            "mathematics": 97,
+            "science": 90
+        }
+    },
+    "108":{
+        "first": "Noah",
+        "last": "Lee",
+        "grades": {
+            "english": 72,
+            "mathematics": 46,
+            "science": 77
+        }
+    },
+    "109":{
+        "first": "Felix",
+        "last": "Gagnon",
+        "grades": {
+            "english": 92,
+            "mathematics": 77,
+            "science": 92
+        }
+    },
+    "110":{
+        "first": "Oliver",
+        "last": "Wilson",
+        "grades": {
+            "english": 47,
+            "mathematics": 92,
+            "science": 48
+        }
+    }
+}
